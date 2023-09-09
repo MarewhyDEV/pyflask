@@ -15,9 +15,4 @@ def yazitura():
     info = random.choice(yt)
     return f'<h3>{info}</h3>'
 
-
-
-
-
-
 app.run(debug=True)
